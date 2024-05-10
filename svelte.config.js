@@ -1,8 +1,2 @@
-import adapter from '@sveltejs/adapter-vercel';
-
-export default {
-    kit: {
-        adapter: adapter({
-        })
-    }
-};
+/** @type {import('@sveltejs/kit').Config} */const config = { kit: { csp: { directives: { 'script-src': ['self'] }, reportOnly: { 'script-src': ['self'] } } } };
+export default config;

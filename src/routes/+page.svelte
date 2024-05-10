@@ -4,6 +4,9 @@
 
 <body>
     <div
+    class="flex w-full h-screen justify-between bg-[url(/bg1.jpg)] bg-cover"
+>
+    <div
         class="items-center bg-gray-50 px-6 py-2.5 sm:px-3.5 sm:before:flex-1 w-full h-[193px] rounded-md mt-4"
     >
         <div class="grid grid-cols-4 gap-3">
@@ -99,6 +102,7 @@
             </div>
         </div>
     </div>
+</div>
 </body>
 
 <style>
