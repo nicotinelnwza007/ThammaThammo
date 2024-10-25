@@ -4,9 +4,9 @@
 
 <body>
     <div
-        class="items-center bg-gray-50 px-6 py-2.5 sm:px-3.5 sm:before:flex-1 w-full h-[193px] rounded-md mt-4"
+        class="items-center rounded-md px-6 py-2.5 sm:px-3.5 sm:before:flex-1 w-full h-[193px] rounded-md mt-4"
     >
-        <div class="grid grid-cols-4 gap-3">
+        <div class="grid grid-cols-4 rounded-md gap-3 bg-trasparent">
             <img src="monk01.jpg" alt="" class="" />
             <img src="monk02.jpg" alt="" class="" />
             <img src="monk03.jpg" alt="" class="" />
