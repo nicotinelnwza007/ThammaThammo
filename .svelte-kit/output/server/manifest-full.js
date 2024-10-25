@@ -10,7 +10,7 @@ return {
 	assets: new Set(["bag1.jpg","bag2.jpg","bard.jpg","bg1.jpg","bg2.jpg","dFQROr7oWzulq5Fa5LJQN4Zp8c7v0LKcTNB3GvCTd4G12wEv5rUK5q02HWKMthFhOKp.webp","favicon.ico","favicon.png","Group 6.png","Logo.png","lukpacum.jpg","m.jpg","maiprom.jpg","monk01.jpg","monk02.jpg","monk03.jpg","monk04.jpg","monkey.jpg","Monkeyeiei.jpg","MonkeySALT.jpg","Monkrai.jpg","n.jpg","ntwo.jpg","s.jpg","takud.jpg","temple-buddhism-architecture-lighting-asia-4k_1538064708.jpg (1).webp","temple-buddhism-architecture-lighting-asia-4k_1538064708.jpg.webp"]),
 	mimeTypes: {".jpg":"image/jpeg",".webp":"image/webp",".png":"image/png"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.CgseL6RA.js","app":"_app/immutable/entry/app.BuRpC1wk.js","imports":["_app/immutable/entry/start.CgseL6RA.js","_app/immutable/chunks/entry.D-AyP7qB.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/entry/app.BuRpC1wk.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/chunks/index.DgpfhXQN.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
+		client: {"start":"_app/immutable/entry/start.JzlT1lHc.js","app":"_app/immutable/entry/app.Cmc3lS_v.js","imports":["_app/immutable/entry/start.JzlT1lHc.js","_app/immutable/chunks/entry.DoYXS3GF.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/entry/app.Cmc3lS_v.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/chunks/index.DgpfhXQN.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
 		nodes: [
 			__memo(() => import('./nodes/0.js')),
 			__memo(() => import('./nodes/1.js')),
