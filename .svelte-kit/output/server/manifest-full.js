@@ -7,10 +7,10 @@ function __memo(fn) {
 return {
 	appDir: "_app",
 	appPath: "_app",
-	assets: new Set(["bag1.jpg","bag2.jpg","bard.jpg","bg1.jpg","bg2.jpg","dFQROr7oWzulq5Fa5LJQN4Zp8c7v0LKcTNB3GvCTd4G12wEv5rUK5q02HWKMthFhOKp.webp","favicon.png","Group 6.png","Logo.png","lukpacum.jpg","m.jpg","maiprom.jpg","monk01.jpg","monk02.jpg","monk03.jpg","monk04.jpg","monkey.jpg","Monkeyeiei.jpg","MonkeySALT.jpg","Monkrai.jpg","n.jpg","ntwo.jpg","s.jpg","takud.jpg","temple-buddhism-architecture-lighting-asia-4k_1538064708.jpg (1).webp","temple-buddhism-architecture-lighting-asia-4k_1538064708.jpg.webp"]),
+	assets: new Set(["bag1.jpg","bag2.jpg","bard.jpg","bg1.jpg","bg2.jpg","dFQROr7oWzulq5Fa5LJQN4Zp8c7v0LKcTNB3GvCTd4G12wEv5rUK5q02HWKMthFhOKp.webp","favicon.ico","favicon.png","Group 6.png","Logo.png","lukpacum.jpg","m.jpg","maiprom.jpg","monk01.jpg","monk02.jpg","monk03.jpg","monk04.jpg","monkey.jpg","Monkeyeiei.jpg","MonkeySALT.jpg","Monkrai.jpg","n.jpg","ntwo.jpg","s.jpg","takud.jpg","temple-buddhism-architecture-lighting-asia-4k_1538064708.jpg (1).webp","temple-buddhism-architecture-lighting-asia-4k_1538064708.jpg.webp"]),
 	mimeTypes: {".jpg":"image/jpeg",".webp":"image/webp",".png":"image/png"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.CVRh0IN9.js","app":"_app/immutable/entry/app.BSHSbtnM.js","imports":["_app/immutable/entry/start.CVRh0IN9.js","_app/immutable/chunks/entry.Be721b4l.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/entry/app.BSHSbtnM.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/chunks/index.DgpfhXQN.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
+		client: {"start":"_app/immutable/entry/start.7OQNeaDH.js","app":"_app/immutable/entry/app.TK96n7Jr.js","imports":["_app/immutable/entry/start.7OQNeaDH.js","_app/immutable/chunks/entry.DxYJnhsV.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/entry/app.TK96n7Jr.js","_app/immutable/chunks/scheduler.DUa3pFyD.js","_app/immutable/chunks/index.DgpfhXQN.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
 		nodes: [
 			__memo(() => import('./nodes/0.js')),
 			__memo(() => import('./nodes/1.js')),
